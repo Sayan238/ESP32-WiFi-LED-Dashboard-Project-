@@ -29,7 +29,9 @@ Using this project, you can control multiple LEDs wirelessly from your phone or 
 
 # 📷 Project Preview
 
-(Add your project image/screenshot here)
+<img width="1169" height="643" alt="WhatsApp Image 2026-05-15 at 1 14 43 PM" src="https://github.com/user-attachments/assets/12b572d3-ccfe-4747-94f7-7a8a2f6ecaf4" />
+
+
 
 ---
 
